@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Riken Prajapati",
+    "occupation": "INSTRUMENTATION AND CONTROL Engineer and A NON-TECH CODER",
+    "description": "A Passionate REACT.JS Developer",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Full-stack React.js Developer with the knowledge of HTML, CSS3, Javascript, React.js(Hooks, Redux), Node.js, Firebase Cloud Functions. Building Clones of real world Web-apps. Also knows Wordpress as well as Wix",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "riken0306@gmail.com",
+    "phone": "+91 6359277366",
+    "address": {
+      "street": "Royal Care Hostel",
+      "city": "Nadiad",
+      "state": "India",
+      "zip": "387008"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC0nte2eWzWDC0IxtQ_3CzqA/featured",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/riken.prajapati.146",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/riken-prajapati-918b541b4/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/riken0306/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Riken0306",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dharamsinh Desai University",
+        "degree": "BTech. Instrumentation and Control",
+        "graduated": "July 2023",
+        "description": "Currently in 4th Sem"
+      }
+    ],
+    "work": [
+      {
+        "company": "NonTech Coder",
+        "title": "Freelancer",
+        "years": "May 2020 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "C",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Todo APP (React JS)",
+        "category": "",
+        "image": "Todo APP.jpg",
+        "url": ""
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon1.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Made Important Open Source Contributions to real world Apps",
+        "user": "HacktoberFest"
+      }
+    ]
+  }
+}
